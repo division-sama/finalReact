@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/division-sama/finalReact.git/static/css/main.d055d1ff.chunk.css",
+    "main.js": "/division-sama/finalReact.git/static/js/main.2cf533c7.chunk.js",
+    "main.js.map": "/division-sama/finalReact.git/static/js/main.2cf533c7.chunk.js.map",
+    "runtime-main.js": "/division-sama/finalReact.git/static/js/runtime-main.8c133af6.js",
+    "runtime-main.js.map": "/division-sama/finalReact.git/static/js/runtime-main.8c133af6.js.map",
+    "static/js/2.6d824a38.chunk.js": "/division-sama/finalReact.git/static/js/2.6d824a38.chunk.js",
+    "static/js/2.6d824a38.chunk.js.map": "/division-sama/finalReact.git/static/js/2.6d824a38.chunk.js.map",
+    "index.html": "/division-sama/finalReact.git/index.html",
+    "static/css/main.d055d1ff.chunk.css.map": "/division-sama/finalReact.git/static/css/main.d055d1ff.chunk.css.map",
+    "static/js/2.6d824a38.chunk.js.LICENSE.txt": "/division-sama/finalReact.git/static/js/2.6d824a38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c133af6.js",
+    "static/js/2.6d824a38.chunk.js",
+    "static/css/main.d055d1ff.chunk.css",
+    "static/js/main.2cf533c7.chunk.js"
+  ]
+}
